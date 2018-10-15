@@ -10,31 +10,19 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Computer Vision",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Robotics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BTech in Computer Science"
+  institution = "International Institute of Information Technology, Hyderabad"
+  year = 2015
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Sudhir Yarram is a research fellow of computer vision at the IIIT Hyderabad Computer Vision Lab. His research interests include analyzing gradier in visual data, deep learning and building end to end assistive technologies.
