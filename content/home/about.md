@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Computer Vision",
     "Artificial Intelligence",
+    "Deep Learning",
     "Robotics"
   ]
 
@@ -25,4 +26,4 @@ weight = 5
 
 # Biography
 
-Sudhir Yarram is a research fellow of computer vision at the IIIT Hyderabad Computer Vision Lab. His research interests include analyzing gradier in visual data, deep learning and building end to end assistive technologies.
+Sudhir Yarram is a research fellow of computer vision at the IIIT Hyderabad Computer Vision Lab. His research interests include visual data analysis, semantic segmentation for autonomous navigation, building bio-inspired systems and end to end assistive technologies.

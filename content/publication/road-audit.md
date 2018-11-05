@@ -3,7 +3,7 @@ title = "Cityscale Road Audit System using Deep Learning"
 date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sudhir Kumar Reddy", "Girish Varma", '''<a href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a>''']
+authors = ["Sudhir Yarram", "Girish Varma", '''<a href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a>''']
 
 # Publication type.
 # Legend:
@@ -17,14 +17,14 @@ authors = ["Sudhir Kumar Reddy", "Girish Varma", '''<a href="https://faculty.iii
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Intelligent Robots (<strong>IROS</strong>)"
+publication = "<span style='color: orange'>JTPF Novel Technology Paper Award Finalist, Oral Presentation</span><br/><a href='https://www.iros2018.org//'>International Conference on Intelligent Robots (<strong>IROS</strong>)</a>"
 #publication_short = "In *ACPR*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "img/audit.png"
+image_preview = "img/audit_6.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -32,16 +32,16 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["semantic-segmentation"]
+#projects = ["semantic-segmentation"]
 
 # Links (optional).
-#url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
+url_pdf = "https://drive.google.com/file/d/1Z0uKgCJ_1GTGAQcE4FS_faXEqpShWAs1/view?usp=sharing" 
 #url_preprint = "https://arxiv.org/abs/1711.08757"
 #url_code = "#"
-#url_dataset = "#"
-#url_project = "#"
-#url_slides = "#"
-#url_video = "#"
+url_dataset = "https://cvit.iiit.ac.in/images/Projects/city-scale-roadaudit/release_version_v1.zip"
+url_project = "https://cvit.iiit.ac.in/research/projects/cvit-projects/city-scale-road-audit"
+url_slides = "https://drive.google.com/file/d/1VNFPglT0HWi5n9A2WSPUI_SGm7bXmN5W/view?usp=sharing"
+url_video = "https://drive.google.com/file/d/1dbPlhSsyIBjd7SaFuhcjy1EoQX1Y1mhP/view?usp=sharing"
 #url_poster = "#"
 #url_source = "#"
 
@@ -58,7 +58,7 @@ projects = ["semantic-segmentation"]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "headers/bubbles-wide.jpg"
+image = "img/audit.png"
 #caption = "My caption :smile:"
 
 +++
