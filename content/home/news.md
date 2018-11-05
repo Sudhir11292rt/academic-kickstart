@@ -15,11 +15,11 @@ weight = 10
 
 +++
 
-- 5th October : <a href="https://drive.google.com/file/d/1C7i0XBbKDsXG9bTBUiXU9eKDTa5eLWvW/view?usp=sharing"> Finalist of JTPF Novel Technology Paper Award at IROS 2018 </a>
-- 2nd October : Presented City-Scale Road Audit at IROS 2018
+- October 2018 : <a href="https://drive.google.com/file/d/1C7i0XBbKDsXG9bTBUiXU9eKDTa5eLWvW/view?usp=sharing"> Finalist of JTPF Novel Technology Paper Award at IROS 2018 </a>
+- October 2018 : Presented City-Scale Road Audit at <a href="https://www.iros2018.org/">IROS 2018</a>
 - July 2018 : Organised Semantic Segmentation lab at <a href="http://cvit.iiit.ac.in/cvsummerschool2018/index.html">Summer School on Computer Vision 2018, IIIT Hyderabad</a>
 - August 2018 : Presented work to government officals at 20th Anniversary celebration event at IIIT Hyderabad.
-- March 2018 : Our paper got accepted at IROS 2018
+- March 2018 : Our paper got accepted at <a href="https://www.iros2018.org/">IROS 2018</a>
 - July 2017 : Attended <a href="http://cvit.iiit.ac.in/mlsummerschool2017/"> Summer School on Machine Learning 2017 </a>
 - July 2017 : Attended <a href="http://cvit.iiit.ac.in/cvsummerschool2017/">Summer School on Computer Vision 2017 </a>
 - September 2017 : Nominated for Adobe Young Achiever's Award

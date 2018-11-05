@@ -24,6 +24,6 @@ weight = 5
  
 +++
 
-# Biography
+# Welcome!
 
 Sudhir Yarram is a research fellow of computer vision at the IIIT Hyderabad Computer Vision Lab. His research interests include visual data analysis, semantic segmentation for autonomous navigation, building bio-inspired systems and end to end assistive technologies.
